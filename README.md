@@ -1,6 +1,7 @@
 # BrainHub: Multimodal Brain Understanding Benchmark
 
 ## Updates
+- [2024/07/01] UMBRAE is accepted to ECCV 2024.
 - [2024/05/18] Update Leaderboard results.
 - [2024/04/11] The brainhub benchmark has been released.
 
@@ -77,10 +78,10 @@ This is the quantitative comparison for subject 1 (S1). For results on other sub
 ## Citation
 
 ```bibtex
-@article{xia2024umbrae,
+@inproceedings{xia2024umbrae,
   author    = {Xia, Weihao and de Charette, Raoul and Öztireli, Cengiz and Xue, Jing-Hao},
-  title     = {UMBRAE: Unified Multimodal Decoding of Brain Signals},
-  journal   = {arxiv preprint:arxiv 2404.07202},
+  title     = {UMBRAE: Unified Multimodal Brain Decoding},
+  booktitle = {European Conference on Computer Vision (ECCV)},
   year      = {2024},
 }
 ```
