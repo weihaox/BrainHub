@@ -1,0 +1,72 @@
+
+Evaluation time: 2025-11-09 10:27:28.056785
+References path: data/caption/fmri_cococap.json
+Candidates path: data/caption/comparison/umbrae-v-1-4/sub01_decoded_caption.json
+
+BLEU-1: 0.5944
+BLEU-2: 0.4048
+BLEU-3: 0.2766
+BLEU-4: 0.1903
+METEOR: 0.1945
+ROUGE: 0.4371
+CIDER: 0.6106
+SPICE: 0.1279
+CLIPScore: 0.6778
+RefCLIPScore: 0.7354
+PACScore: 0.7076
+RefPACScore: 0.7675
+SentenceScore: 0.5775
+
+Evaluation time: 2025-11-09 10:28:15.326008
+References path: data/caption/fmri_cococap.json
+Candidates path: data/caption/comparison/umbrae-v-1-4/sub02_decoded_caption.json
+
+BLEU-1: 0.5937
+BLEU-2: 0.4047
+BLEU-3: 0.2714
+BLEU-4: 0.1841
+METEOR: 0.1917
+ROUGE: 0.4386
+CIDER: 0.5593
+SPICE: 0.1208
+CLIPScore: 0.6646
+RefCLIPScore: 0.7236
+PACScore: 0.6956
+RefPACScore: 0.7568
+SentenceScore: 0.5621
+
+Evaluation time: 2025-11-09 10:29:03.609922
+References path: data/caption/fmri_cococap.json
+Candidates path: data/caption/comparison/umbrae-v-1-4/sub05_decoded_caption.json
+
+BLEU-1: 0.6036
+BLEU-2: 0.4127
+BLEU-3: 0.2792
+BLEU-4: 0.1903
+METEOR: 0.2004
+ROUGE: 0.4481
+CIDER: 0.6132
+SPICE: 0.1319
+CLIPScore: 0.6839
+RefCLIPScore: 0.7412
+PACScore: 0.7164
+RefPACScore: 0.7753
+SentenceScore: 0.5914
+
+Evaluation time: 2025-11-09 10:29:50.364894
+References path: data/caption/fmri_cococap.json
+Candidates path: data/caption/comparison/umbrae-v-1-4/sub07_decoded_caption.json
+
+BLEU-1: 0.5720
+BLEU-2: 0.3830
+BLEU-3: 0.2549
+BLEU-4: 0.1713
+METEOR: 0.1829
+ROUGE: 0.4216
+CIDER: 0.5273
+SPICE: 0.1163
+CLIPScore: 0.6590
+RefCLIPScore: 0.7183
+PACScore: 0.6898
+RefPACScore: 0.7513
+SentenceScore: 0.5490

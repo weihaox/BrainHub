@@ -69,8 +69,8 @@ def calculate_metric(preds: Sequence[str], targets: Sequence[str], threshold: fl
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('--path_coco_gt', type=str, default='bbox/coco_bbox_categorized.json')
-    parser.add_argument('--path_coco_categorized_label', type=str, default='processing/coco/coco_categorized_labels.json')
+    parser.add_argument('--path_coco_gt', type=str, default='data/bbox/coco_bbox_categorized.json')
+    parser.add_argument('--path_coco_categorized_label', type=str, default='data/processing/coco/coco_categorized_labels.json')
     parser.add_argument('--path_out', type=str, default='rec_results/brainx/sub01_dim1024')
     parser.add_argument('--threshold', type=float, default=0.5)
     args = parser.parse_args()

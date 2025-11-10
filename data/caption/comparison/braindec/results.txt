@@ -1,0 +1,72 @@
+
+Evaluation time: 2025-11-09 10:52:46.409443
+References path: data/caption/fmri_cococap.json
+Candidates path: data/caption/comparison/braindec/sub01_decoded_caption.json
+
+BLEU-1: 0.6129
+BLEU-2: 0.4201
+BLEU-3: 0.2842
+BLEU-4: 0.1968
+METEOR: 0.1799
+ROUGE: 0.4447
+CIDER: 0.5382
+SPICE: 0.1067
+CLIPScore: 0.6309
+RefCLIPScore: 0.6960
+PACScore: 0.6574
+RefPACScore: 0.7255
+SentenceScore: 0.5268
+
+Evaluation time: 2025-11-09 10:53:43.185001
+References path: data/caption/fmri_cococap.json
+Candidates path: data/caption/comparison/braindec/sub02_decoded_caption.json
+
+BLEU-1: 0.5928
+BLEU-2: 0.4047
+BLEU-3: 0.2704
+BLEU-4: 0.1799
+METEOR: 0.1775
+ROUGE: 0.4360
+CIDER: 0.5153
+SPICE: 0.0988
+CLIPScore: 0.6286
+RefCLIPScore: 0.6927
+PACScore: 0.6553
+RefPACScore: 0.7228
+SentenceScore: 0.5111
+
+Evaluation time: 2025-11-09 10:54:41.370133
+References path: data/caption/fmri_cococap.json
+Candidates path: data/caption/comparison/braindec/sub05_decoded_caption.json
+
+BLEU-1: 0.6182
+BLEU-2: 0.4279
+BLEU-3: 0.2901
+BLEU-4: 0.1957
+METEOR: 0.1870
+ROUGE: 0.4463
+CIDER: 0.5765
+SPICE: 0.1132
+CLIPScore: 0.6403
+RefCLIPScore: 0.7026
+PACScore: 0.6662
+RefPACScore: 0.7322
+SentenceScore: 0.5385
+
+Evaluation time: 2025-11-09 10:55:38.716054
+References path: data/caption/fmri_cococap.json
+Candidates path: data/caption/comparison/braindec/sub07_decoded_caption.json
+
+BLEU-1: 0.5907
+BLEU-2: 0.3963
+BLEU-3: 0.2631
+BLEU-4: 0.1797
+METEOR: 0.1748
+ROUGE: 0.4307
+CIDER: 0.4922
+SPICE: 0.0990
+CLIPScore: 0.6152
+RefCLIPScore: 0.6806
+PACScore: 0.6445
+RefPACScore: 0.7126
+SentenceScore: 0.4927

@@ -1,0 +1,18 @@
+
+Evaluation time: 2025-11-10 09:22:08.479695
+References path: data/caption/fmri_cococap.json
+Candidates path: data/caption/comparison/onellm/sub01_decoded_caption.json
+
+BLEU-1: 0.4704
+BLEU-2: 0.2697
+BLEU-3: 0.1549
+BLEU-4: 0.0951
+METEOR: 0.1355
+ROUGE: 0.3505
+CIDER: 0.2299
+SPICE: 0.0626
+CLIPScore: 0.5480
+RefCLIPScore: 0.6128
+PACScore: 0.5839
+RefPACScore: 0.6524
+SentenceScore: 0.3773
